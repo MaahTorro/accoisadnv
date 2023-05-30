@@ -1,0 +1,54 @@
+
+header {
+  background-color: black;
+  width: 100%;
+  height: 75px;
+}
+
+.teste {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+ul {
+  color: white;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 97%;
+  height: 75px;
+}
+
+li {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+
+.black-board {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 135px;
+
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+div {
+  background-color: black;
+}
+
+.imgslide {
+  width: 100%;
+  display: block;
+  max-height: 450px;
+  object-fit: cover;
+}
